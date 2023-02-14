@@ -13,6 +13,7 @@
 		C06A1C772999EE28008D0737 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C06A1C752999EE28008D0737 /* Main.storyboard */; };
 		C06A1C792999EE2A008D0737 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C06A1C782999EE2A008D0737 /* Assets.xcassets */; };
 		C06A1C7C2999EE2A008D0737 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C06A1C7A2999EE2A008D0737 /* LaunchScreen.storyboard */; };
+		C06A1C872999FC02008D0737 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = C06A1C862999FC02008D0737 /* User.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C06A1C782999EE2A008D0737 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C06A1C7B2999EE2A008D0737 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C06A1C7D2999EE2A008D0737 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C06A1C862999FC02008D0737 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				C06A1C712999EE28008D0737 /* SceneDelegate.swift */,
 				C06A1C732999EE28008D0737 /* ViewController.swift */,
 				C06A1C752999EE28008D0737 /* Main.storyboard */,
+				C06A1C862999FC02008D0737 /* User.swift */,
 				C06A1C782999EE2A008D0737 /* Assets.xcassets */,
 				C06A1C7A2999EE2A008D0737 /* LaunchScreen.storyboard */,
 				C06A1C7D2999EE2A008D0737 /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C06A1C872999FC02008D0737 /* User.swift in Sources */,
 				C06A1C742999EE28008D0737 /* ViewController.swift in Sources */,
 				C06A1C702999EE28008D0737 /* AppDelegate.swift in Sources */,
 				C06A1C722999EE28008D0737 /* SceneDelegate.swift in Sources */,
